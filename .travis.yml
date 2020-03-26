@@ -3,7 +3,7 @@
 ## Cypress is agnostic to your apps
 ## backend language though.
 language: node_js
-
+os: "osx",'windows',"linux"
 node_js:
   - 10
 
